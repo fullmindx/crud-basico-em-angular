@@ -1,0 +1,28 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "manga",
+      "quantity": 2,
+      "price": 100
+    },
+    {
+      "id": 5,
+      "name": "Abacate",
+      "price": 10,
+      "quantity": 5
+    },
+    {
+      "id": 7,
+      "name": "mandioca",
+      "price": 3,
+      "quantity": 4
+    },
+    {
+      "id": 8,
+      "name": "batata",
+      "price": 5,
+      "quantity": 1
+    }
+  ]
+}
